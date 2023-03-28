@@ -1,7 +1,7 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
+  appId: 'ionic.push.notification',
   appName: 'ionic-push-notification',
   webDir: 'dist',
   bundledWebRuntime: false
